@@ -1,0 +1,7 @@
+There are multiple datasets used in this project:
+
+1. Conflict data is obtained from ACLED (https://acleddata.com/). Users can subscribe to this data after successful application.
+
+2. Aid data is obtained from Myanmar Information Management Unit through a formal request. This data can not be publicly shared.
+
+3. Other datasets are obtained from the World Value Survey (https://www.worldvaluessurvey.org/) and the Dartmouth Flood Observatory (https://floodobservatory.colorado.edu/wiki/Main_Page).
